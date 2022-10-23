@@ -6,9 +6,9 @@
  
 </P>
 
-Epitech student graduated in 2023.
-I have been coding for 7 years with the JS ecosystem.
-All my public project are available on https://bellottoeric.fr
+Epitech student graduated in 2023.<br>
+I have been coding for 7 years with the JS ecosystem.<br>
+All my public project are available on https://bellottoeric.fr<br>
 
 <h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
 
