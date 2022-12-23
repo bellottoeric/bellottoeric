@@ -14,7 +14,7 @@ All my public project are available on https://bellottoeric.fr<br>
 
 - &nbsp; Freelance developer
 - &nbsp; Blockchain enthusiast
-- &nbsp; Working H24
+- &nbsp; Chess player
 
 <h3 style="color: #f2f2f2;">✋ &nbsp;Connect with Me </h3>
 
