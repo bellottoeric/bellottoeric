@@ -6,20 +6,21 @@
   
   </P>
 
-FullStack JS developer specialized in the Javascript ecosystem, in 5th year at Epitech,<br>
-I am looking for a full-time contract in full remote with the Javascript ecosystem for the period from March 2023 to August 2023.<br>
+Développeur web spécialisé dans l'écosystème Javascript, en 5ème année à Epitech,<br>
+Je suis à la recherche d'un contratb à durée déterminée à temps plein en télétravail<br>
+avec l'écosystème Javascript pour la période de mars 2023 à août 2023.<br>
 
-  <h3 style="color: #f2f2f2;">  💻 &nbsp; More about me </h3>
+  <h3 style="color: #f2f2f2;">  💻 &nbsp; À Propos </h3>
 
 - &nbsp; Programmation
-- &nbsp; Cryptocurrencies
+- &nbsp; Cryptomonnaies
 - &nbsp; Sport
-- &nbsp; Astronomy
-- &nbsp; Chess Player
+- &nbsp; Astronomie
+- &nbsp; Joueur d'échecs
 
-  <a href="https://bellottoeric.fr">Bellotto Eric - 3D spatial portfolio</a>
+<a href="https://bellottoeric.fr">Bellotto Eric - Portfolio spatial en 3D</a>
 
-  <h3 style="color: #f2f2f2;">✋ &nbsp; Contact </h3>
+  <h3 style="color: #f2f2f2;">✋ &nbsp;Contact </h3>
 
   <p>
     <a href="mailto:bellottoeric@gmail.com">
